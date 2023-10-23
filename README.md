@@ -39,28 +39,27 @@
 
 - Membuat widget header
 
-![gambar1](GAMBAR-ITU/KUKA11.png)
+![KUKA11](https://github.com/Birrhamm/lab4_web/assets/115520530/f182c5ca-6274-44fd-a224-b6c68cbe830f)
 
 - Menambahkan kolom widget text
-
-![gambar1](GAMBAR-ITU/KUKA12.png)
+  
+![KUKA12](https://github.com/Birrhamm/lab4_web/assets/115520530/627ae477-40bf-4633-aaf5-f692d455a0cd)
 
 - Mengubah menjadi ke bawah pada footer bagian bawah
 
-![gambar1](GAMBAR-ITU/KUKA13.png)
+![KUKA13](https://github.com/Birrhamm/lab4_web/assets/115520530/24bc1e84-984e-47c1-bda4-26c46c8bbe3a)
 
 - Menambah gambar bewarna kode html
 
-![gambar1](GAMBAR-ITU/KUKA14.png)
+![KUKA14](https://github.com/Birrhamm/lab4_web/assets/115520530/658348e4-00d5-485f-a399-74496c90ab6b)
 
 - Menambah gambar bewarna kode css
 
-![gambar1](GAMBAR-ITU/KUKA15.png)
+![KUKA15](https://github.com/Birrhamm/lab4_web/assets/115520530/572db60f-3b61-4681-b71f-fac498e09cda)
 
 - Menambah paragraf baru
 
-
-![gambar1](GAMBAR-ITU/KUKA16.png)
+![KUKA16](https://github.com/Birrhamm/lab4_web/assets/115520530/29256289-faba-4d87-ad14-a0f145d02e5e)
 
 Pertanyaan dan Tugas
 
