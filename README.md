@@ -1,13 +1,12 @@
 # LANGKAH - LANGKAH PRAKTIKUM 
 
 - Membuat Box Element
-
-![Screenshot (198)](https://github.com/Birrhamm/lab4_web/assets/115520530/f814233c-0cfa-45df-b472-acb7d92b033d)
+- 
+![KUKA1](https://github.com/Birrhamm/lab4_web/assets/115520530/06febcc8-3be0-4ef6-83e9-300295bb2c0c)
 
 - Menambahkan element baru
 
-![Screenshot (200)](https://github.com/Birrhamm/lab4_web/assets/115520530/51df855f-0bf4-4e16-b82f-aa0f351bea69)
-
+![KUKA2](https://github.com/Birrhamm/lab4_web/assets/115520530/c7820cea-0c14-4a14-b353-de4eb269331e)
 
 - Membuat layout sederhana
 
