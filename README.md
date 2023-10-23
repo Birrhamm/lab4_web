@@ -2,16 +2,11 @@
 
 - Membuat Box Element
 
-![gambar1](GAMBAR-ITU/KUKA1.png)
+![Screenshot (198)](https://github.com/Birrhamm/lab4_web/assets/115520530/f814233c-0cfa-45df-b472-acb7d92b033d)
 
 - Menambahkan element baru
 
-![gambar1](GAMBAR-ITU/KUKA2.png)
-
-- Mengubah nya menjadi ke samping kanan
-
-![gambar1](GAMBAR-ITU/KUKA3.png)
-
+![Screenshot (200)](https://github.com/Birrhamm/lab4_web/assets/115520530/51df855f-0bf4-4e16-b82f-aa0f351bea69)
 
 
 - Membuat layout sederhana
